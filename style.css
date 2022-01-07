@@ -1,0 +1,130 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: "Rubik", sans-serif;
+    box-sizing: border-box;
+    max-width: 1400px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+.one{
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+}
+section{
+    margin-bottom: 150px;
+}
+.text{
+    width: 50%;
+}
+.text-border{
+    border-left: 5px solid rgb(214, 23, 189);
+    padding-left: 5%;
+}
+.text-color{
+    color: rgb(29, 221, 29);
+}
+.p{
+    font-size: 18px;
+}
+.button{
+    display: inline-block;
+    margin-bottom: 18px;
+    background-color: rgb(236, 197, 234);
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.img-one{
+    width: 50%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.img-one img{
+    width: 60%;
+    height: 60%;
+    object-fit: contain;
+}
+.two{
+    padding-left: 30px;
+}
+.blog{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.items{
+    display: flex;
+    gap: 40px;
+    padding: 50px;
+}
+.item-img{
+    width: 50%;
+    height: 50%;
+}
+.item-one{
+    background-color: rgb(231, 211, 225);
+    text-align: center;
+    border-radius: 30px;
+}
+.item-two{
+    background-color: rgb(223, 212, 191);
+    text-align: center;
+    border-radius: 30px;
+}
+.item-three{
+    background-color: rgb(214, 213, 230);
+    text-align: center;
+    border-radius: 30px;
+}
+.three{
+    display: flex;
+    gap: 10%;
+    padding-left: 5%;
+}
+.coding{
+    width: 80%;
+    padding-right: 30%;
+}
+.image-two{
+    width: 50%;
+}
+.coding-img{
+    width: 80%;
+    height: 80%;
+}
+.four{
+    display: flex;
+    gap: 10%;
+}
+.project{
+    padding-left: 10%;
+    text-align: left;
+}
+.project-img{
+    width: 80%;
+    height: 80%;
+}
+.ending{
+    text-align: center;
+    background-color: black;
+    height: 200px;
+    font-style: italic;
+}
+.ending h3{
+    color: whitesmoke;
+    padding-top: 2%;
+}
+.ending p{
+    color: white;
+    padding-bottom: 50%;
+    font-size: 80%;
+}
+.color{
+    color: red;
+}
